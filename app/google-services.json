@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414111363758",
+    "project_id": "shoescolection-5f9c1",
+    "storage_bucket": "shoescolection-5f9c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414111363758:android:ba55d82684a5aa08eb733f",
+        "android_client_info": {
+          "package_name": "com.colectionshoes.shoesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt5nUNfcHbVmCgIK79G_LR8CEN5-40XB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
